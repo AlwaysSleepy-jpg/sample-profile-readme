@@ -1,16 +1,12 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm *Collin M.*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am a cybersecurity major with a fascination for computers, I enjoy programming, and currently attending the University of Texas at San Antonio. 
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+My skills include, communication, teamwork, programming, computer literacy, and time management. 
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+My interests include computers, art, programming, and reading. 
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>](https://github.com/AlwaysSleepy-jpg))
+[![LinkedIn](www.linkedin.com/in/collin-martinez-6b5645227)
 
-_"Your sample quote here!"_
+_"Time is more valuable than money. You can get more money, but you cannot get more time."_
