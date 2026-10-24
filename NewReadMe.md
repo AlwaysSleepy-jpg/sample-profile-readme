@@ -6,6 +6,7 @@ My skills include, communication, teamwork, programming, computer literacy, and 
 ## 🎉 Interests
 My interests include computers, art, programming, and reading. 
 ## 🔗 Links
-[![GitHub]([https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AlwaysSleepy-jpg])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AlwaysSleepy-jpg)
+
 
 _"Time is more valuable than money. You can get more money, but you cannot get more time."_
